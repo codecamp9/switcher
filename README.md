@@ -1,6 +1,6 @@
 # switcher
 
-## Demo
+## Visit Website
 https://ramadani-coding.github.io/switcher/
 
 ## License
