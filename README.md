@@ -1,7 +1,7 @@
 # switcher
 
 ## Visit Website
-https://ramadani-coding.github.io/switcher/
+https://switcher-codecamp.vercel.app/
 
 ## License
 
